@@ -1,10 +1,12 @@
 # MyProfile 🤩🤗🥰
-<p align="center">
-  Hello !! My name is Weerawit Phumphuang 🤩
+
+Hello !! My name is Weerawit Phumphuang 🤩
+
+You can call me Mew !! 😋
 </p>
-<p align="center">
-  You can call me Mew !! 😋
-</p>
-<p align="center">
-  <img src ="https://user-images.githubusercontent.com/92081920/137593969-ed6c66ec-f383-48f4-b2e0-ab2f7daba2e9.gif">
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeerawitPM&show_icons=true&theme=swift&include_all_commits=true)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WeerawitPM&theme=swift&date_format=j%20M%5B%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeerawitPM&layout=compact&theme=swift)
