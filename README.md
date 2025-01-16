@@ -82,8 +82,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/weerawitpm/count.svg?"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=WeerawitPM&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
